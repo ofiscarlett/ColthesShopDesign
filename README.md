@@ -8,7 +8,7 @@ First page is index, or so to call front page.
 ---
 #Page link
 #
-[Home](#https://github.com/ofiscarlett/ColthesShopDesign/blob/main/index.html) | [Productdetail](#productdetail) | [Shoppingcart](#shoppingcart)
+[Home](#https://ofiscarlett.github.io/ColthesShopDesign/) | [Productdetail](#productdetail) | [Shoppingcart](#shoppingcart)
 ---
 # Front Page
 ## Home
